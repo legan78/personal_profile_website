@@ -1,0 +1,24 @@
+#+TITLE:
+#+AUTHOR: Angel Martinez-Gonzalez
+#+EMAIL:  angel.martinez@idiap.ch
+#+DATE:
+#+LANGUAGE:  en
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t c:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:t tags:t tasks:t tex:t timestamp:t toc:nil
+#+OPTIONS: todo:t |:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js 
+#+EXPORT_SELECT_TAGS:  export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:
+#+LINK_HOME: 
+#+HTML_HEAD_EXTRA: <style type="text/css"> td { min-width: 40px; } </style> 
+#+HTML_MATHJAX: align:"center" mathml:nil path:"/tmp/mathjax/MathJax.js"
+#+STARTUP:: showall
+#+STARTUP:: align 
+
+* Publications
+** 2018
+#+ATTR_HTML: :width 100% :style border-style:hidden                                                                                                                                                                                                                 
+| [[http://www.idiap.ch/~odobez/publications/MartinezVillamizarCanevetOdobez-ECCVW-2018.pdf][pdf]] | Angel Martínez-González, Michael Villamizar, Olivier Canévet and Jean-Marc Odobez. *Investigating Depth Domain Adaptation for Efficient Human Pose Estimation*,     In /ECCV Workshop on Human Behavior Understanding/, 2018.                                                                                                                                       |
+| [[http://www.idiap.ch/~odobez/publications/VillamizarMartinezCanevetOdobez-AVSS-2018.pdf][pdf]] | Michael Villamizar, Angel Martínez-González, Olivier Canévet and Jean-Marc Odobez. *WatchNet: Efficient and Depth-based Network for People Detection inVideo Sur    veillance Systems* IEEE Int. Conf. on Advanced Video and Signal-Based Processing (AVSS), 2018.                                                                                                  |
+| [[http://www.idiap.ch/~odobez/publications/MartinezVillamizarCanevetOdobez-IROS2018.pdf][pdf]] | Angel Martínez-González, Michael Villamizar, Olivier Canévet and Jean-Marc Odobez. *Real-time Convolutional Networks for Depth-based Human Pose Estimation*. In /    IEEE/RSJ International Conference on Intelligent Robots and Systems/, 2018.                                                                                                                    |

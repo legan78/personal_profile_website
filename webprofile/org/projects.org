@@ -1,0 +1,37 @@
+#+TITLE:
+#+AUTHOR: Angel Martinez-Gonzalez
+#+EMAIL:  angel.martinez@idiap.ch
+#+DATE:
+#+LANGUAGE:  en
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t c:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:t tags:t tasks:t tex:t timestamp:t toc:nil
+#+OPTIONS: todo:t |:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js 
+#+EXPORT_SELECT_TAGS:  export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:
+#+LINK_HOME: 
+#+HTML_HEAD_EXTRA: <style type="text/css"> td { min-width: 40px; } </style> 
+#+HTML_MATHJAX: align:"center" mathml:nil path:"/tmp/mathjax/MathJax.js"
+#+STARTUP:: showall
+#+STARTUP:: align 
+
+* Projects
+
+#+ATTR_HTML: :width 100% :style border-style:hidden
+
++ EU-H2020 MuMMER project. 
+
++ ViZDoom with Reinforcement Learning. Solving navigation tasks in a 3d FPS game environment for autonomous agents with deep reinforcement learning methods. 
+
++ 3d object culling methods for a virtual reality game: Sophie's guardian GameCoder Studios, Mexico. 
+
++ Algorithms Analysis and Design Group. Intel Corporation, (Intel-GDC) Mexico. Informal speeches to cover some topics of algorithm design and analysis for the Intel community. 
+
++ Human motion and gesture recognition for human-computer interaction in a augmented reality system for product management. 
+
++ Multi-person visual tracking. Center for Research in Mathematics (CIMAT), México. Development of a vision system able to track multiple people. 
+
++ Ball tracking for the NAO robot for soccer playing in the Robocup soccer championship. 
+
++ Real Time Face Detection. Development of a real time vision system able to detect human faces in video.

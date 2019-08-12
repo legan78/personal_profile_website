@@ -1,0 +1,67 @@
+#+TITLE: Angel Martinez-Gonzalez
+#+AUTHOR: Angel Martinez-Gonzalez
+#+EMAIL: angel.martinez@idiap.ch
+#+DATE:
+#+LANGUAGE: en
+
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t c:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:t tags:t tasks:t tex:t timestamp:t toc:nil
+#+OPTIONS: todo:t |:t
+#+INFOJS_OPT: view:nil toc:nil mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+
+
+#+EXPORT_SELECT_TAGS:  export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:
+#+LINK_HOME:
+#+HTML_MATHJAX: align:"center" mathml:nil path:"/tmp/mathjax/MathJax.js"
+#+STARTUP:: showall
+
+
+* Short Biography
+#+ATTR_HTML: :width 50%                                                               
+[[file:img/batman.jpg]] 
+
+I am a PhD student in the [[https://www.epfl.ch/education/phd/][Doctoral School of Electrical Engineering]] 
+at [[https://www.epfl.ch/][École Polytechnique Fédérale de Lausanne (EPFL)]], Switzerland and a research 
+assistant in the Perception Group at [[http://www.idiap.ch][Idiap Research Institute]], Switzerland under 
+the supervision of [[https://www.idiap.ch/~odobez/][Dr. Jean-Marc Odobez]].
+
+
+I currently work in deep neural network (DNN) based Human Pose Estimation, exploring different
+aspects of the human kinematics to improve 2d and 3d estimations. My research is funded by 
+the [[https://www.conacyt.gob.mx/][Mexican Counsil of Science and Technology (CONACyT)]]
+and the [[http://mummer-project.eu/][European Union H2020 MuMMER project]].
+
+I obtain a MSc degree in Computer Science at the [[https://www.cimat.mx/][Matematical Research Center (CIMAT)]], 
+Mexico. During my MSc. I did a research internship at the 
+[[https://www.laas.fr/public/][Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS)]], 
+France, where I worked with machine learning techniques for camenra network topology discovery,
+
+After finishing my MSc degree I worked for Intel Coorporation GDC-Mexico as a Software 
+Engineer in the Android team for development, maintainance and troubleshooting of the camera
+stack of Intel mobile devices; and for CIMAT as a research engineer working in various
+projects that involve machine learning, computer vision and computer graphics.
+
+
+
+#+BEGIN_HTML
+<script type="text/javascript">
+//<![CDATA[
+var sc_project=10174616;
+var sc_invisible=1;
+var sc_security="f6b65810";
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter_xhtml.js'></"+"script>");
+//]]>
+</script>
+<noscript><div class="statcounter"><a title="shopify
+analytics tool" href="http://statcounter.com/shopify/"
+class="statcounter"><img class="statcounter"
+src="http://c.statcounter.com/10174616/0/f6b65810/1/"
+alt="shopify analytics tool" /></a></div></noscript>
+#+END_HTML
+
