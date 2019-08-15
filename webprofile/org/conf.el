@@ -1,7 +1,7 @@
 ;; Select and to C-x C-e                                                                
-                                                                                        
+
 (require 'ox-publish)                                                                   
-                                                                                        
+
 (setq org-publish-use-timestamps-flag nil)                                              
                                                                                         
 (setq org-publish-project-alist                                                         
@@ -16,10 +16,13 @@
          :auto-preamble t                                                               
          :html-head "<link rel=\"stylesheet\" type=\"text/css\" href=\"css/stylesheet.css\" />"                                                                                 
          :html-head-extra ""                                                            
-         :html-preamble "<a href=\"index.html\">Home</a> |                              
-                         <a href=\"publications.html\">Publications</a> |                                        
-                         <a href=\"projects.html\">Projects</a> |                                                
-                         <a href=\"contact.html\">Contact</a>"                                                   
+;;         :html-preamble "<a href=\"index.html\">Home</a> |                              
+;;                        <a href=\"publications.html\">Publications</a> |                                        
+;;                         <a href=\"projects.html\">Projects</a> |                                                
+;;                         <a href=\"contact.html\">Contact</a>"
+	 :html-preamble "<a href=\"index.html\">Home</a> |
+                         <a href=\"publications.html\">Publications</a> |
+                         <a href=\"contact.html\">Contact</a>"
          )                                                                              
                                                                                         
         ("org-static"                                                                   

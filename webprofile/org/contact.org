@@ -1,1 +1,32 @@
-*Contact
+#+TITLE:
+#+AUTHOR: Angel Martinez-Gonzalez
+#+EMAIL:  angel.martinez@idiap.ch
+#+DATE:
+#+LANGUAGE:  en
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t c:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:t tags:t tasks:t tex:t timestamp:t toc:nil
+#+OPTIONS: todo:t |:t
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS:  export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:
+#+LINK_HOME:
+#+HTML_MATHJAX: align:"center" mathml:nil path:"/tmp/mathjax/MathJax.js"
+#+STARTUP:: showall
+#+STARTUP:: align
+
+* Contact
+
+#+BEGIN_SRC abc
+T +41 76 823 36 71
+
+angelmtzg dot 09 at gmail dot com
+
+angel dot martinez at idiap dot ch
+
+Idiap Research Institute
+Rue Marconi 19
+1920 Martigny
+Switzerland
+#+END_SRC
+
