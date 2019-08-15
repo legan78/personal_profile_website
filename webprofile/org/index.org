@@ -1,4 +1,4 @@
-#+TITLE: Angel Martinez-Gonzalez
+#+TITLE: Angel Martínez-González
 #+AUTHOR: Angel Martinez-Gonzalez
 #+EMAIL: angel.martinez@idiap.ch
 #+DATE:
@@ -17,29 +17,35 @@
 #+HTML_MATHJAX: align:"center" mathml:nil path:"/tmp/mathjax/MathJax.js"
 #+STARTUP:: showall
 
+#+STYLE: <style type="text/css">
+#+STYLE:<!--/*--><![CDATA[/*><!--*/
+#+STYLE: div.figure { float:left; }
+#+STYLE: /*]]>*/-->
+#+STYLE: </style>
 
-* Short Biography
-#+ATTR_HTML: :width 50%                                                               
-[[file:img/batman.jpg]] 
+
+
+* Biography
+# #+ATTR_HTML: :width 50%                                                               
+# [[file:img/batman.jpg]] 
 
 I am a PhD student in the [[https://www.epfl.ch/education/phd/][Doctoral School of Electrical Engineering]] 
 at [[https://www.epfl.ch/][École Polytechnique Fédérale de Lausanne (EPFL)]], Switzerland and a research 
-assistant in the Perception Group at [[http://www.idiap.ch][Idiap Research Institute]], Switzerland under 
+assistant in the Perception Group at [[http://www.idiap.ch][Idiap Research Institute]] under 
 the supervision of [[https://www.idiap.ch/~odobez/][Dr. Jean-Marc Odobez]].
 
-
-I currently work in deep neural network (DNN) based Human Pose Estimation, exploring different
+I currently work in deep neural networks based efficient /Human Pose Estimation/, exploring different
 aspects of the human kinematics to improve 2d and 3d estimations. My research is funded by 
-the [[https://www.conacyt.gob.mx/][Mexican Counsil of Science and Technology (CONACyT)]]
+the [[https://www.conacyt.gob.mx/][Mexican Council of Science and Technology (CONACyT)]]
 and the [[http://mummer-project.eu/][European Union H2020 MuMMER project]].
 
-I obtain a MSc degree in Computer Science at the [[https://www.cimat.mx/][Matematical Research Center (CIMAT)]], 
-Mexico. During my MSc. I did a research internship at the 
-[[https://www.laas.fr/public/][Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS)]], 
-France, where I worked with machine learning techniques for camenra network topology discovery,
+I obtained a MSc. degree in Computer Science at the [[https://www.cimat.mx/][Matematical Research Center (CIMAT)]]
+in Guanajuato, México. During my MSc. I did a research internship at the 
+[[https://www.laas.fr/public/][Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS)]] in
+Toulouse, France, where I worked with machine learning techniques for camera network topology discovery.
 
-After finishing my MSc degree I worked for Intel Coorporation GDC-Mexico as a Software 
-Engineer in the Android team for development, maintainance and troubleshooting of the camera
+After finishing my MSc. degree I worked for Intel Corporation GDC-México as a Software 
+Engineer in the Android team developing, maintaining and troubleshooting the camera
 stack of Intel mobile devices; and for CIMAT as a research engineer working in various
 projects that involve machine learning, computer vision and computer graphics.
 
