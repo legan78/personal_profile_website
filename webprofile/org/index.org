@@ -19,8 +19,8 @@
 
 
 * Short Biography
-#+ATTR_HTML: :width 50%                                                               
-[[file:img/batman.jpg]] 
+# #+ATTR_HTML: :width 50%                                                               
+# [[file:img/batman.jpg]] 
 
 I am a PhD student in the [[https://www.epfl.ch/education/phd/][Doctoral School of Electrical Engineering]] 
 at [[https://www.epfl.ch/][École Polytechnique Fédérale de Lausanne (EPFL)]], Switzerland and a research 

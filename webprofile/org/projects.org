@@ -16,22 +16,14 @@
 #+STARTUP:: showall
 #+STARTUP:: align 
 
+
 * Projects
 
 #+ATTR_HTML: :width 100% :style border-style:hidden
 
-+ EU-H2020 MuMMER project. 
+| <c> | <l> |
+| [[file:img/vizdoom_rl_small.gif]][[file:img/vizdoom_rl.gif][zoom]] | *ViZDoom and Reinforcement Learning*. Solving navigation tasks in a 3d FPS game environment for autonomous agents with deep reinforcement learning methods. |
+| [[file:img/montecarlo_localization_small.gif]][[file:img/montecarlo_localization.gif][zoom]]| *Montecarlo localization*. When an autonomous drone needs to localize itself in a map, motion models and particle filters come to place to save the day. Implementation of montecarlo localization in C++ with OpenCv [[https://github.com/legan78/montecarlo_localization][code]]. | 
+| [[file:img/gc_engine_test_small.gif]][[file:img/gc_engine_test.gif][zoom]]| *3d object culling methods for virtual reality gaming*: collaboration with [[http://www.sophie-vr.com/][Sophie's guardian]] [[http://www.gamecoderstudios.com/][GameCoder Studios]], Mexico. |
 
-+ ViZDoom with Reinforcement Learning. Solving navigation tasks in a 3d FPS game environment for autonomous agents with deep reinforcement learning methods. 
-
-+ 3d object culling methods for a virtual reality game: Sophie's guardian GameCoder Studios, Mexico. 
-
-+ Algorithms Analysis and Design Group. Intel Corporation, (Intel-GDC) Mexico. Informal speeches to cover some topics of algorithm design and analysis for the Intel community. 
-
-+ Human motion and gesture recognition for human-computer interaction in a augmented reality system for product management. 
-
-+ Multi-person visual tracking. Center for Research in Mathematics (CIMAT), México. Development of a vision system able to track multiple people. 
-
-+ Ball tracking for the NAO robot for soccer playing in the Robocup soccer championship. 
-
-+ Real Time Face Detection. Development of a real time vision system able to detect human faces in video.
+# + Algorithms Analysis and Design Group. Intel Corporation, (Intel-GDC) Mexico. Informal speeches to cover some topics of algorithm design and analysis for the Intel community. 
