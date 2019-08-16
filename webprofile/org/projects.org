@@ -22,8 +22,8 @@
 #+ATTR_HTML: :width 100% :style border-style:hidden
 
 | <c> | <l> |
-| [[file:img/vizdoom_rl_small.gif]][[file:img/vizdoom_rl.gif][zoom]] | *ViZDoom and Reinforcement Learning*. Solving navigation tasks in a 3d FPS game environment for autonomous agents with deep reinforcement learning methods. |
-| [[file:img/montecarlo_localization_small.gif]][[file:img/montecarlo_localization.gif][zoom]]| *Montecarlo localization*. When an autonomous drone needs to localize itself in a map, motion models and particle filters come to place to save the day. Implementation of montecarlo localization in C++ with OpenCv [[https://github.com/legan78/montecarlo_localization][code]]. | 
-| [[file:img/gc_engine_test_small.gif]][[file:img/gc_engine_test.gif][zoom]]| *3d object culling methods for virtual reality gaming*: collaboration with [[http://www.sophie-vr.com/][Sophie's guardian]] [[http://www.gamecoderstudios.com/][GameCoder Studios]], Mexico. |
+| [[file:img/vizdoom_rl_small.gif]][[file:img/vizdoom_rl_big.gif][zoom]] | *ViZDoom and Reinforcement Learning*. Solving navigation tasks in a 3d FPS game environment for autonomous agents with deep reinforcement learning methods. |
+| [[file:img/montecarlo_localization_small.gif]][[file:img/montecarlo_localization_big.gif][zoom]]| *Montecarlo localization*. When an autonomous drone needs to localize itself in a map, motion models and particle filters come to place to save the day. Implementation of montecarlo localization in C++ with OpenCv [[https://github.com/legan78/montecarlo_localization][code]]. | 
+| [[file:img/gc_engine_test_small.gif]][[file:img/gc_engine_test_big.gif][zoom]]| *3d object culling methods for virtual reality gaming*: collaboration with [[http://www.sophie-vr.com/][Sophie's guardian]] [[http://www.gamecoderstudios.com/][GameCoder Studios]], Mexico. |
 
 # + Algorithms Analysis and Design Group. Intel Corporation, (Intel-GDC) Mexico. Informal speeches to cover some topics of algorithm design and analysis for the Intel community. 
