@@ -22,6 +22,7 @@
 ;;                         <a href=\"contact.html\">Contact</a>"
 	 :html-preamble "<a href=\"index.html\">Home</a> |
                          <a href=\"publications.html\">Publications</a> |
+                         <a href=\"projects.html\">Projects</a> |
                          <a href=\"contact.html\">Contact</a>"
          )                                                                              
                                                                                         
